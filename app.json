@@ -8,6 +8,22 @@
       "expo-router"
     ],
     "name": "job-list",
-    "slug": "job-list"
+    "slug": "job-list",
+    "extra": {
+      "router": {
+        "origin": false
+      },
+      "eas": {
+        "projectId": "5e75de64-5993-4454-828b-f3ec438a80a5"
+      }
+    },
+    "runtimeVersion": {
+      "policy": "appVersion"
+    },
+    "updates": {
+      "url": "https://u.expo.dev/5e75de64-5993-4454-828b-f3ec438a80a5"
+    },
+    "android": {},
+    "ios": {}
   }
 }
